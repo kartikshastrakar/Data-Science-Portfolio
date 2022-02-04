@@ -30,7 +30,7 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
    -  [IPL data -](https://github.com/kartikshastrakar/kartik/blob/main/Code%20file/ipl2017.ipynb):
    -  [covid -]():
    -  [Exploratory Data Analytics on Pima Indians Diabetes Database -]():The Pima Indian Diabetes Database is from National Institute of Diabetes and Digestive and Kidney Diseases. It consists of nine variables, out of which 'outcome' is the target variable. The objective of this dataset is to aid in predicting if a person is likely to have Diabetes or not.
-   -  [Exploratory Data Analysis on Automobile dataset -](https://github.com/kartikshastrakar/kartik/blob/main/Exploratory_Data_Analysis_on_Automobile_dataset_(2).ipynb):
-   -  [Salary_expectation_based_on_experiences -](https://github.com/kartikshastrakar/kartik/blob/main/Salary_expectation_based_on_experiences.ipynb):
+   -  [Exploratory Data Analysis on Automobile dataset -](https://github.com/kartikshastrakar/kartik/blob/main/Exploratory_Data_Analysis_on_Automobile_dataset_(2).ipynb):This data set consists of three types of entities: (a) the specification of an auto in terms of various characteristics (b) its assigned insurance risk rating (c) its normalized losses in use as compared to other cars. The second rating corresponds to the degree to which the auto is more risky than its price indicates. Cars are initially assigned a risk factor symbol associated with its price. Then, if it is more risky (or less), this symbol is adjusted by moving it up (or down) the scale. Actuarians call this process "symboling". A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe.
+   -  [Salary_expectation_based_on_experiences -](https://github.com/kartikshastrakar/kartik/blob/main/Salary_expectation_based_on_experiences.ipynb):Predicting the salary based on the expriences
 
    
