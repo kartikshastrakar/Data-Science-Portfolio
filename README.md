@@ -8,7 +8,7 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
 ## Contents
  
  - ## Machine Learning.
-    - [Supervised Machine Learning with Logistic Regression and Naïve Bayes] : Learning from the labelled data and applying the knowledge to predict the label of the new data(test data), is known as Supervised Learning
+    - ### Supervised Machine Learning with Logistic Regression and Naïve Bayes : Learning from the labelled data and applying the knowledge to predict the label of the new data(test data), is known as Supervised Learning
       - [Creditcard_fraud_detection](https://github.com/kartikshastrakar/kartik/blob/main/Creditcard_fraud_detection.ipynb):
     - [Supervised Machine Learning with Tree Based Models]():
     - [Unsupervised Machine Learning with K-means]():
