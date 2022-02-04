@@ -29,6 +29,6 @@ population size is huge..
    -  [IPL data -](https://github.com/kartikshastrakar/kartik/blob/main/Code%20file/ipl2017.ipynb):
    -  [covid -]():
    -  [Exploratory Data Analytics on Pima Indians Diabetes Database -]():
-   -  [Salary_expectation_based_on_experiences -]():
+   -  [Salary_expectation_based_on_experiences -](https://github.com/kartikshastrakar/kartik/blob/main/Salary_expectation_based_on_experiences.ipynb):
 
    
