@@ -25,7 +25,7 @@ population size is huge..
    -  [Uber Data analysis using Python -](https://github.com/kartikshastrakar/kartik/blob/main/Code%20file/Uber%20data%20analysisi.ipynb):
    -  [Indian_food_EDA -](https://github.com/kartikshastrakar/kartik/blob/main/indian-food-101%20(2).ipynb):
 
-- ## Data Mining Projects
+- ## Data Mining And EDA Projects
    -  [IPL data -](https://github.com/kartikshastrakar/kartik/blob/main/Code%20file/ipl2017.ipynb):
    -  [covid -]():
    -  [Exploratory Data Analytics on Pima Indians Diabetes Database -]():
