@@ -8,11 +8,12 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
 ## Contents
  
  - ## Machine Learning.
- - ## Supervised Machine Learning with Logistic Regression and Naïve Bayes : 
-      - [Creditcard_fraud_detection](https://github.com/kartikshastrakar/kartik/blob/main/Creditcard_fraud_detection.ipynb):Detecting credit card fraud using logistic regression
-      - [Pima Indians Diabetes Database]()
- - ## Supervised Machine Learning with Tree Based Models:
- - ## Unsupervised Machine Learning with K-means:
+ - ### Supervised Machine Learning with Logistic Regression and Naïve Bayes : 
+      - [Creditcard_fraud_detection](https://github.com/kartikshastrakar/kartik/blob/main/Creditcard_fraud_detection.ipynb):The purpose of this project is Detecting a credit card fraud using logistic regression
+      - [Pima Indians Diabetes Database](https://github.com/kartikshastrakar/kartik/blob/main/Pima_Indians_Diabetes_Database.ipynb): The objective of this project is to aid in predicting if a person is likely to have Diabetes or not using the Naive Bayes
+ - ### Supervised Machine Learning with Tree Based Models:
+      -
+ - ### Unsupervised Machine Learning with K-means:
  
 - ## Deep Learning
 - ## Computer Vision Projects
