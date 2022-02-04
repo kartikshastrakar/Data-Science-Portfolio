@@ -29,7 +29,7 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
 - ## Data Mining And EDA Projects
    -  [IPL data -](https://github.com/kartikshastrakar/kartik/blob/main/Code%20file/ipl2017.ipynb):
    -  [covid -]():
-   -  [Exploratory Data Analytics on Pima Indians Diabetes Database -]():
+   -  [Exploratory Data Analytics on Pima Indians Diabetes Database -]():The Pima Indian Diabetes Database is from National Institute of Diabetes and Digestive and Kidney Diseases. It consists of nine variables, out of which 'outcome' is the target variable. The objective of this dataset is to aid in predicting if a person is likely to have Diabetes or not.
    -  [Exploratory Data Analysis on Automobile dataset -](https://github.com/kartikshastrakar/kartik/blob/main/Exploratory_Data_Analysis_on_Automobile_dataset_(2).ipynb):
    -  [Salary_expectation_based_on_experiences -](https://github.com/kartikshastrakar/kartik/blob/main/Salary_expectation_based_on_experiences.ipynb):
 
