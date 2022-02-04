@@ -22,7 +22,7 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
 
 - ## Data Analysis Projects
    -  [Amazon top 50 selling books - ](https://github.com/kartikshastrakar/kartik/blob/main/amazon-top-50-bestselling-books-2009-2019.ipynb): 
-   -  [Indian_education_system_EDA - ](https://github.com/kartikshastrakar/kartik/blob/main/Indian_Education_System.ipynb):
+   -  [Indian_education_system_EDA - ](https://github.com/kartikshastrakar/kartik/blob/main/Indian_Education_System.ipynb): This dataset contains information about Indian School Education Statistics of the year 2013-2014 to 2015-2016.
    -  [Uber Data analysis using Python -](https://github.com/kartikshastrakar/kartik/blob/main/Code%20file/Uber%20data%20analysisi.ipynb):
    -  [Indian_food_EDA -](https://github.com/kartikshastrakar/kartik/blob/main/indian-food-101%20(2).ipynb):
 
