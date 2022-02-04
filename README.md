@@ -20,7 +20,7 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
 
 - ## Natural Language Processing
 
-- ## Data Analysis (mini project)
+- ## Data Analysis (Mini Project)
    -  [Amazon top 50 selling books - ](https://github.com/kartikshastrakar/kartik/blob/main/amazon-top-50-bestselling-books-2009-2019.ipynb): This project consists of finding the detail of the amazon top 50 books such as price, user ratings and reviews.
    -  [Indian_education_system_EDA - ](https://github.com/kartikshastrakar/kartik/blob/main/Indian_Education_System.ipynb): This project contains information about Indian School Education Statistics of the year 2013-2014 to 2015-2016.The project tells us about the number of the student dropout according to the different state and dropout ratio for the state in the country. At the same time the  enrollment ratio of the student for the state in our country 
    -  [Uber Data analysis using Python -](https://github.com/kartikshastrakar/kartik/blob/main/Code%20file/Uber%20data%20analysisi.ipynb): This purpose of this projects is to find the difference between the cab rental rates in normal days and in the rainy days.This project gives the better understanding of the cab rental rates on the basis of the weather reports 
