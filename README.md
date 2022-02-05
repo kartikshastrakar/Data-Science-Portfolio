@@ -22,6 +22,8 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
 
 
 - ## Natural Language Processing
+   - [Sentiment Analysis on Amazon Reviews -](https://github.com/kartikshastrakar/kartik/blob/main/sentiment_analysis_on_amazon_reviews.ipynb):
+   - [Sentiment Analtsis on IMBD 50k Movies Reviews -](https://github.com/kartikshastrakar/kartik/blob/main/imdb_sentiment_analysis.ipynb):
 
 - ## Data Analysis (Mini Project)
    -  [Amazon top 50 selling books - ](https://github.com/kartikshastrakar/kartik/blob/main/amazon-top-50-bestselling-books-2009-2019.ipynb): This project consists of finding the detail of the amazon top 50 books such as price, user ratings and reviews.
