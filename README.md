@@ -17,6 +17,7 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
  - ### Unsupervised Machine Learning with K-means:
  
 - ## Deep Learning
+    - [Dogs vs cats using CNN Neural Network -](https://github.com/kartikshastrakar/kartik/blob/main/Dogs_and_cats.ipynb):
 - ## Computer Vision Projects
     - [COVID19 detection using chest x-rays - ](https://github.com/kartikshastrakar/Data-Science-Portfolio/blob/main/Notebooks/Covid.ipynb):  Using the proposed AI techniques based workflow we are in a position to analyze thepatient’s condition using x-rays by spending minimal time of radiologists and patient’s money. These sorts of solutions are needed for countries like India where the population size is huge..
     - [Face recognition using Python -](https://github.com/kartikshastrakar/kartik/blob/main/Face_Recognition.ipynb): Recognizing the faces with smile using the open cv and python 
