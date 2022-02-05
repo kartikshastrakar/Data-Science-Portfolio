@@ -12,7 +12,8 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
       - [Creditcard_fraud_detection](https://github.com/kartikshastrakar/kartik/blob/main/Creditcard_fraud_detection.ipynb):The purpose of this project is Detecting a credit card fraud using logistic regression
       - [Pima Indians Diabetes Database](https://github.com/kartikshastrakar/kartik/blob/main/Pima_Indians_Diabetes_Database.ipynb): The objective of this project is to aid in predicting if a person is likely to have Diabetes or not using the Naive Bayes
  - ### Supervised Machine Learning with Tree Based Models:
-      -
+      - [Iris Dataset using Decision Tree](https://github.com/kartikshastrakar/kartik/blob/main/Decision_Tree.ipynb): This consist of using the the decision tree method on the Iris data set to predict the predictor Y or the sepal.length
+      - [covid-19 indian data using Random forest](https://github.com/kartikshastrakar/kartikshastrakar/blob/main/random_forest.ipynb): This project consist of predicting the number of the active, cured or death cases in India using the rondom forest. Also finding the number active, cured or death cases in the Maharastra
  - ### Unsupervised Machine Learning with K-means:
  
 - ## Deep Learning
