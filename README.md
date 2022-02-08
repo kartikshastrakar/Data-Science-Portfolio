@@ -4,7 +4,7 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
  Tools
   - **Python**: NumPy, Pandas, Seaborn, Matplotlib
   - **Machine Learning**: scikit-learn, TensorFlow, keras
-  - 
+  
 ## Contents
  
  - ## Machine Learning.
