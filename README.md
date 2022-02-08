@@ -43,4 +43,4 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
    -  [Salary_expectation_based_on_experiences -](https://github.com/kartikshastrakar/kartik/blob/main/Salary_expectation_based_on_experiences.ipynb):The purpose of this project is to use data transformation and machine learning to create a model that will predict a salary when given years of experience, job type. ... This model can be used as a guide when determining salaries since it shows reasonable predictions when given information on years of experience, job type
 
    
-If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on: - [LinkedIn](linkedin.com/in/kartik-shastrakar-054783166/)
+If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on: - [LinkedIn](linkedin.com/in/kartik-shastrakar-054783166)
