@@ -45,3 +45,5 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
    
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/kartik-shastrakar-054783166)
+    - G-mail:- kartikshastrakar04@gmail.com
+   
