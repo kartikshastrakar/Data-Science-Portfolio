@@ -4,7 +4,7 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
  Tools
   - **Python**: NumPy, Pandas, Seaborn, Matplotlib
   - **Machine Learning**: scikit-learn, TensorFlow, keras
-
+  - 
 ## Contents
  
  - ## Machine Learning.
@@ -15,17 +15,19 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
       - [Iris Dataset using Decision Tree](https://github.com/kartikshastrakar/kartik/blob/main/Decision_Tree.ipynb): This consist of using the the decision tree method on the Iris data set to predict the predictor Y or the sepal.length
       - [covid-19 indian data using Random forest](https://github.com/kartikshastrakar/kartikshastrakar/blob/main/random_forest.ipynb): This project consist of predicting the number of the active, cured or death cases in India using the rondom forest. Also finding the number active, cured or death cases in the Maharastra
  - ### Unsupervised Machine Learning with K-means:
+      - [K -Means clustering on mall customer dataset](https://github.com/kartikshastrakar/kartik/blob/main/K_Means_clustering_on_mall_customer_dataset_2.ipynb):K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data (i.e., data without defined categories or groups). The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable K.
  
 - ## Deep Learning
     - [Dogs vs cats using CNN Neural Network -](https://github.com/kartikshastrakar/kartik/blob/main/Dogs_and_cats.ipynb):
 - ## Computer Vision Projects
     - [COVID19 detection using chest x-rays - ](https://github.com/kartikshastrakar/Data-Science-Portfolio/blob/main/Notebooks/Covid.ipynb):  Using the proposed AI techniques based workflow we are in a position to analyze thepatient’s condition using x-rays by spending minimal time of radiologists and patient’s money. These sorts of solutions are needed for countries like India where the population size is huge..
-    - [Face recognition using Python -](https://github.com/kartikshastrakar/kartik/blob/main/Face_Recognition.ipynb): Recognizing the faces with smile using the open cv and python 
+    - [Face recognition using Python -](https://github.com/kartikshastrakar/kartik/blob/main/Face_Recognition.ipynb): Recognizing the faces with smile using the open cv2 and python. 
+    - [Car Parking Space Counter and Detector](https://github.com/kartikshastrakar/kartik/tree/main/car): The project consists of detecting car parking space and counting the available space for the car parking using the Open cv2.
 
 
 - ## Natural Language Processing
-   - [Sentiment Analysis on Amazon Reviews -](https://github.com/kartikshastrakar/kartik/blob/main/sentiment_analysis_on_amazon_reviews.ipynb):
-   - [Sentiment Analtsis on IMBD 50k Movies Reviews -](https://github.com/kartikshastrakar/kartik/blob/main/imdb_sentiment_analysis.ipynb):
+   - [Sentiment Analysis on Amazon Reviews -](https://github.com/kartikshastrakar/kartik/blob/main/sentiment_analysis_on_amazon_reviews.ipynb): This project consist of the Analysing the Reviews using the NLTK and carrying the sentiment analysis on the reviews and user rating given by the customers and reviewers. 
+   - [Sentiment Analtsis on IMBD 50k Movies Reviews -](https://github.com/kartikshastrakar/kartik/blob/main/imdb_sentiment_analysis.ipynb):Sentiments analysis on the IMBD 50K Movies. The consists of finding the best and worst reviews given by the people to the movies.
 
 - ## Data Analysis (Mini Project)
    -  [Amazon top 50 selling books - ](https://github.com/kartikshastrakar/kartik/blob/main/amazon-top-50-bestselling-books-2009-2019.ipynb): This project consists of finding the detail of the amazon top 50 books such as price, user ratings and reviews.
