@@ -23,6 +23,7 @@ Portafolio of data science projects. Using: Python, PyTorch,  Tensorflow, Scikit
     - [COVID19 detection using chest x-rays - ](https://github.com/kartikshastrakar/Data-Science-Portfolio/blob/main/Notebooks/Covid.ipynb):  Using the proposed AI techniques based workflow we are in a position to analyze thepatient’s condition using x-rays by spending minimal time of radiologists and patient’s money. These sorts of solutions are needed for countries like India where the population size is huge..
     - [Face recognition using Python -](https://github.com/kartikshastrakar/kartik/blob/main/Face_Recognition.ipynb): Recognizing the faces with smile using the open cv2 and python. 
     - [Car Parking Space Counter and Detector](https://github.com/kartikshastrakar/kartik/tree/main/car): The project consists of detecting car parking space and counting the available space for the car parking using the Open cv2.
+    - [Vehicle detection and color recognition -](https://github.com/kartikshastrakar/Vehicle-detection-and-color):This project consists of detecting the car of the color and vehicle detection in the video using background image substractor.
 
 
 - ## Natural Language Processing
